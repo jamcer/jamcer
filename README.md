@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamcer
-- 👀 I’m interested in HTML5, CSS, javascript,java, frameworks 
-- 🌱 I’m currently learning java
+- 👀 I’m interested in HTML5, CSS, javascript,java, python, frameworks
+- 🌱 I’m currently learning angular, python
 - 💞️ I’m looking to collaborate on any free project
 - 📫 How to reach -- here by message
 
