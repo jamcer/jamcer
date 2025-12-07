@@ -4,13 +4,15 @@
 - 💞️ I’m looking to collaborate on any free project
 - 📫 How to reach -- here by message
 
-<h1 align='center'>Hi there  👋, I'm Cristian
-
 :computer:   Ingeniero de Sotware de AT&T
 :pencil:     Generador de contenido
 :eyeglases: Geek
 :oncoming_automibile: Fan de F!
 :family:   Uniendose
+
+
+<h1 align='center'>Hi there  👋, I'm Cristian </h1>h1
+
 
 ### Vias de contacto
 
