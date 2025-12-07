@@ -12,6 +12,14 @@
 
 
 <h1 align='center'>Hi there  👋, I'm Jamcer  </h1>h1
+<p align='center'>👨‍💻 FrontEnd Dev. | 👨‍🚀 Platzi Student</p>
+
+<div align='center'>
+  <a href="https://twitter.com/crontreras1" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/crontreras1" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+<h3>👨‍💻 Languages</h3>
 
 
 ### Vias de contacto
@@ -28,14 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p align='center'>👨‍💻 FrontEnd Dev. | 👨‍🚀 Platzi Student</p>
 
-<div align='center'>
-  <a href="https://twitter.com/crontreras1" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/crontreras1" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-
-<h3>👨‍💻 Languages</h3>
 
 <div style="display: flex; gap: 10px;">
   <img style='height: 30px;' src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;
