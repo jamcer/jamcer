@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on any free project
 - 📫 How to reach -- here by message
 
+<h1 align='center'>Hi there  👋, I'm Cristian
+
 :computer:   Ingeniero de Sotware de AT&T
 :pencil:     Generador de contenido
 :eyeglases: Geek
@@ -22,7 +24,7 @@
 jamcer/jamcer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
-<h1 align='center'>Hi there  👋, I'm Cristian
+
 
 <p align='center'>👨‍💻 FrontEnd Dev. | 👨‍🚀 Platzi Student</p>
 
