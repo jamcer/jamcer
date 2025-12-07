@@ -23,20 +23,6 @@
 <h3>👨‍💻 Languages</h3>
 
 
-### Vias de contacto
-
-![website](<https://shields.io./badge/jamc.com-up-green?style=for-the-badge>)
-
-![Website](https://shields.io./website?url=https%3A%2F%2Fshields.io.%2Fbadges%2Fwebsite)
-
-![GitHub commit activity](https://shields.io./github/commit-activity/m/jamcer/jamcer)
-
-<!---
-jamcer/jamcer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-
-
 
 
 <div style="display: flex; gap: 10px;">
@@ -81,3 +67,18 @@ Last Updated: Saturday, December 6th, 2025, 1:17:29 PM
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 --->
+
+
+### Vias de contacto
+
+![website](<https://shields.io./badge/jamc.com-up-green?style=for-the-badge>)
+
+![Website](https://shields.io./website?url=https%3A%2F%2Fshields.io.%2Fbadges%2Fwebsite)
+
+![GitHub commit activity](https://shields.io./github/commit-activity/m/jamcer/jamcer)
+
+<!---
+jamcer/jamcer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+
+
